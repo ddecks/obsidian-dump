@@ -10,8 +10,8 @@ Collection of Obsidian QuickAdd scripts and templates for automated note creatio
 - `getBandcamp.js` - Scrapes Bandcamp album data to generate music notes
 
 **templates/**
-- `book_template.md` - Template for book notes with metadata, ratings, and Goodreads links
-- `album_template.md` - Template for music album notes with artist, genre, and Bandcamp links
+- Templates
+- Maps for data view queriers, not 100% sure may become redundant with workspaces addition still not sure, I like how simple dv is
 
 Requires [QuickAdd plugin](https://github.com/chhoumann/quickadd)  and appropriate API keys where applicable. 
 Inspiration [googleBooks](https://github.com/Elaws/script_googleBooks_quickAdd) 
